@@ -1,0 +1,51 @@
+baseurl = "/"
+relativeurls = true
+languageCode = "en-us"
+title = "Analyst Mindset"
+theme = "hugo-lithium-theme"
+## theme = "blackburn"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+publishDir = "docs"
+copyright = "&copy; 2011 - 2017. All rights reserved."
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+        weight = 1
+        name = "Home"
+        url = "/"
+[[menu.main]]
+        weight = 2
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+        weight = 3
+    name = "YouTube"
+    url = "https://www.youtube.com/user/rdpeng"
+[[menu.main]]
+        weight = 4
+    name = "Twitter"
+    url = "https://twitter.com/rdpeng"
+
+[params]
+        subtitle = "Annotated Live Data Analysis"
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logo-transp.png"
+    width = 315
+    height = 78
+    alt = "Logo"
+

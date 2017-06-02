@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Munging on Analyst Mindset</title>
+    <link>/tags/munging/</link>
+    <description>Recent content in Munging on Analyst Mindset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2011 - 2017. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/munging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episode 1 - Analyzing Lengths of Not So Standard Deviations Episodes</title>
+      <link>/2017/05/22/episode-1/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/22/episode-1/</guid>
+      <description>Background In the first episode of Analyst Mindset I (more or less on a whim) decided to look at the lengths of each of the episodes of Not So Standard Deviations, a data science podcast I do with Hilary Parker.
+Goal Examine the relationship between the length of each episode and time/episode number to see if there&amp;rsquo;s any trend in the episode lengths over time.
+Video Watch the analysis</description>
+    </item>
+    
+  </channel>
+</rss>
