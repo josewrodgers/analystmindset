@@ -24,7 +24,7 @@ copyright = "&copy; 2011 - 2017. All rights reserved."
 [[menu.main]]
         weight = 3
     name = "YouTube"
-    url = "https://www.youtube.com/user/rdpeng"
+    url = "https://www.youtube.com/playlist?list=PLjTlxb-wKvXPeXrKjrI3S_jH7LVdG_Peu"
 [[menu.main]]
         weight = 4
     name = "Twitter"
