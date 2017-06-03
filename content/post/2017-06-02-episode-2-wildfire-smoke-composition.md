@@ -23,7 +23,7 @@ Ultimately, we would want to know whether these changes in chemical composition 
 
 ## Video 
 
-[Watch the analysis](asdf)
+[Watch the analysis](https://youtu.be/jWePleDwmQo)
 
 
 If you have any comments or thoughts, please leave comments on YouTube or [find me on Twitter](https://twitter.com/rdpeng).
