@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2011 - 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 3 - Environmental Clinical Trial</title>
+      <link>/2017/06/27/episode-3-environmental-clinical-trial/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/27/episode-3-environmental-clinical-trial/</guid>
+      <description>Background In this video I&amp;rsquo;m looking at data from the Mouse Allergen and Asthma Intervention Trial (MAAIT). This study was recently published and was a 2-arm randomized trial whose goal was to determine the effect of an integrated pest management (IPM) intervention on asthma morbidity among mouse-sensitized and exposed asthmatic children and adolescents. The trial took place in Baltimore, MD and Boston, MA. Participants were mouse-sensitized and exposed asthmatic children and adolescents, 5-17 years of age, randomized to receive professionally-delivered IPM plus pest management education or education alone.</description>
+    </item>
     
     <item>
       <title>Episode 2 - Wildfire Smoke Composition</title>
